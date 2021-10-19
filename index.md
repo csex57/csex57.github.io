@@ -1,4 +1,4 @@
-## Welcome CSE-X57 at Washington University in St. Louis 
+## Visualization at WashU 
 
 ## Final Projects from [CSE 457A](https://washuvis.github.io/cse457), Fall 2020
 ## Tuesday Presentations
