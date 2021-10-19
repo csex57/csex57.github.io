@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Welcome CSE-X57 at Washington University in St. Louis 
 
-You can use the [editor on GitHub](https://github.com/csex57/csex57.gitub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Final Projects from [CSE 457A](https://washuvis.github.io/cse457), Fall 2020
+## Tuesday Presentations
+- [Genes](https://washuvis.github.io/genes)
+- [Visify](https://washuvis.github.io/visify)
+- [Covid Comm](https://washuvis.github.io/covidcomm/site/)
+- [Metamorphosis](https://washuvis.github.io/metamorphosis/main.html)
+- [Visipedia](https://washuvis.github.io/visipedia)
+- [MLB](https://washuvis.github.io/mlb/views/final_project.html)
+- [Airbnbs](https://washuvis.github.io/ronacrisis)
+- [Smile](https://washuvis.github.io/smile)
+- [UFO](https://washuvis.github.io/ufo)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Thursday Presentations
+- [City Living](https://washuvis.github.io/cityliving)
+- [Water](https://washuvis.github.io/water)
+- [McDonalds](https://washuvis.github.io/mcdonalds)
+- [Big Tech](https://washuvis.github.io/bigtech)
+- [Gender Gap](https://washuvis.github.io/gendergap)
+- [NYC COVID](https://washuvis.github.io/nyccovid)
+- [B.O.T.L](https://washuvis.github.io/goat)
+- [Bechdel Over Time](https://washuvis.github.io/bvis)
+- [NBA](https://washuvis.github.io/nba)
+- [Trafficking](https://washuvis.github.io/trafficking)
+- [Movie Delays](https://washuvis.github.io/jobs/457%20Final%20Project_M1/code/title.html)
+- [StackOverflow](https://washuvis.github.io/stackoverflow)
+- [Gun Violence](https://washuvis.github.io/gunvoilence/)
+- [Covid Mandates](https://washuvis.github.io/covidmandates)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/csex57/csex57.gitub.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Final Projects from Previous Years
+- [CSE 457](https://washuvis.github.io/cse457)
+- [CSE 557](https://washuvis.github.io/cse557)
