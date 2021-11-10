@@ -1,4 +1,4 @@
-
+## Visualization at WashU 
 ## Final Projects from [CSE 457A](https://washuvis.github.io/cse457), Fall 2021
 
 ## Tuesday Presentations
