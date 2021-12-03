@@ -11,7 +11,7 @@
 - [Global Trade](https://csex57.github.io/globaltrade)
 - [GRAMMY's](https://csex57.github.io/grammys)
 - [Hate Crimes](https://csex57.github.io/hatecrimes)
-- [Homework Sentiments](https://csex57.github.io/homeworksentiments)
+- [Homework Sentiments](https://csex57.github.io/homeworksentiments/client/)
 
 ## Thursday Presentations
 - [Music Preferences](https://csex57.github.io/musicpreferences)
