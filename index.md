@@ -1,7 +1,7 @@
 ## Visualization at WashU 
 ## Final Projects from [CSE 457A](https://washuvis.github.io/cse457), Fall 2021
 
-###[Link to final project judging form](https://forms.gle/YM9MNxdXURUzdEfo9)
+### [Link to final project judging form](https://forms.gle/YM9MNxdXURUzdEfo9)
 
 ## Tuesday Presentations
 - [120 Years of Olympics](https://csex57.github.io/120yearsofolympics)
