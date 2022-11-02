@@ -5,19 +5,15 @@ Disciplines such as medicine, business, science, and government are producing en
 
 
 
-
-
-
-## Visualization at WashU 
 ## Final Projects from CSE 457A, Fall 2022
 
-### Link to final project judging form to come
+#### Link to final project judging form to come
 
-## Tuesday Presentations
+### Tuesday Presentations
+- TBD
 
-
-## Thursday Presentations
-
+### Thursday Presentations
+- TDB
 
 
 ## Final Projects from Previous Years
