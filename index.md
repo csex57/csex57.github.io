@@ -9,11 +9,26 @@ Disciplines such as medicine, business, science, and government are producing en
 
 #### Link to final project judging form to come
 
-### Tuesday Presentations
-- TBD
-
 ### Thursday Presentations
-- TDB
+- [123movies](https://csex57.github.io/123movies/web/#)
+- [311 St Louis](https://csex57.github.io/311stlouis/)
+- [Carbon Footprint](https://csex57.github.io/carbonfootprint/Website/)
+- [Cause of Death](https://csex57.github.io/causeofdeath)
+- [Climate Change](https://csex57.github.io/climatechange/)
+- [Demographics](https://csex57.github.io/demographics/)
+- [Emissions](https://csex57.github.io/emissions/)
+- [Explorify](https://csex57.github.io/explorify/main.html)
+- [Fast Food](https://csex57.github.io/fastfood/)
+
+### Tuesday Presentations
+- [Film Industry Trend](https://csex57.github.io/filmmaking/)
+- [Flight Delay](https://csex57.github.io/flightdelay/)
+- [Meteorites](https://csex57.github.io/meteorites/Project/index.html)
+- [Movie Analysis](https://csex57.github.io/movieanalysis/templates/index.html)
+- [Music To Your Ears](https://csex57.github.io/musictoyourears/FinalProject/index.html)
+- [Parking Lots](https://csex57.github.io/parkinglots/project/)
+- [Soccer Legends](https://csex57.github.io/soccer/)
+- [Vibe](https://wucse457-spotify-vibe-check.herokuapp.com/)
 
 
 ## Final Projects from Previous Years
