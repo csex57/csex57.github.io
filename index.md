@@ -15,12 +15,12 @@ Disciplines such as medicine, business, science, and government are producing en
 - [Carbon Footprint](https://csex57.github.io/carbonfootprint/Website/)
 - [Cause of Death](https://csex57.github.io/causeofdeath)
 - [Climate Change](https://csex57.github.io/climatechange/)
-- [Demographics](https://csex57.github.io/demographics/)
 - [Emissions](https://csex57.github.io/emissions/)
 - [Explorify](https://csex57.github.io/explorify/main.html)
 - [Fast Food](https://csex57.github.io/fastfood/)
 
 ### Tuesday Presentations
+- [Demographics](https://csex57.github.io/demographics/)
 - [Film Industry Trend](https://csex57.github.io/filmmaking/)
 - [Flight Delay](https://csex57.github.io/flightdelay/)
 - [Meteorites](https://csex57.github.io/meteorites/Project/index.html)
