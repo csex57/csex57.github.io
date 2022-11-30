@@ -7,7 +7,7 @@ Disciplines such as medicine, business, science, and government are producing en
 
 ## Final Projects from CSE 457A, Fall 2022
 
-#### Link to final project judging form to come
+#### [Link to final project judging form](https://forms.gle/rpFPNtACkB4j4HdS8)
 
 ### Thursday Presentations
 - [123movies](https://csex57.github.io/123movies/web/#)
@@ -24,7 +24,7 @@ Disciplines such as medicine, business, science, and government are producing en
 - [Film Industry Trend](https://csex57.github.io/filmmaking/)
 - [Flight Delay](https://csex57.github.io/flightdelay/)
 - [Meteorites](https://csex57.github.io/meteorites/Project/index.html)
-- [Movie Analysis](https://csex57.github.io/movieanalysis/templates/index.html)
+- [Film Data Analysis](https://csex57.github.io/movieanalysis/templates/index.html)
 - [Music To Your Ears](https://csex57.github.io/musictoyourears/FinalProject/index.html)
 - [Parking Lots](https://csex57.github.io/parkinglots/project/)
 - [Soccer Legends](https://csex57.github.io/soccer/)
