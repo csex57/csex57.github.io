@@ -4,7 +4,7 @@
 Disciplines such as medicine, business, science, and government are producing enormous amounts of data with increasing volume and complexity. This course offers a rigorous introduction to the principles and techniques of data visualization. Topics include design, data mapping, visual perception, and interaction. We cover best practices for designing and building interactive visualization tools for the web, and we gain hands-on experience with designing and developing visualizations. We also learn how to critique visual designs and how to evaluate the systems we build.
 
 
-## Final Projects from CSE 457A, Fall 2022
+## Final Projects from CSE 457A, Fall 2023
 
 #### [Link to final project judging form](https://forms.gle/rpFPNtACkB4j4HdS8)
 
