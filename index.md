@@ -9,10 +9,22 @@ Disciplines such as medicine, business, science, and government are producing en
 #### [Link to final project judging form](https://forms.gle/rpFPNtACkB4j4HdS8)
 
 ### Thursday Presentations
-- TBA
+- [Trip Advisor](https://csex57.github.io/tripadvisor/)
+- [Geo Jams](https://csex57.github.io/geojams/)
+- [UFO Sightings](https://csex57.github.io/ufo_sightings/)
+- [SkyNet Navigators](https://csex57.github.io/skynetnavigators/)
+- [Spotify Visualization Graphics](https://csex57.github.io/SpotifyVisualizationGraphics)
+- [African Wealth](https://csex57.github.io/africanwealth/)
+
 
 ### Tuesday Presentations
-- TBA
+- [Billionaires](https://csex57.github.io/billionaires/)
+- [Home Sense](https://csex57.github.io/homesense/)
+- [NYC Airnbnb](https://csex57.github.io/nyc-airbnb-overview/)
+- [Quantviz](https://csex57.github.io/quantviz/)
+- [Hacking Best Sellers](https://csex57.github.io/hacking-best-sellers)
+- [Basketball Comparison](https://csex57.github.io/basketballcomparisonvis/)
+- [Audio Architects](https://csex57.github.io/audio-architects)
 
 
 ## Final Projects from Previous Years
