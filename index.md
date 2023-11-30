@@ -6,7 +6,7 @@ Disciplines such as medicine, business, science, and government are producing en
 
 ## Final Projects from CSE 457A, Fall 2023
 
-#### [Link to final project judging form](https://forms.gle/rpFPNtACkB4j4HdS8)
+#### [Link to final project judging form](https://forms.gle/wY5yPnQCRH2YeMf67)
 
 ### Thursday Presentations
 - [Trip Advisor](https://csex57.github.io/tripadvisor/)
