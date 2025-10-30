@@ -9,6 +9,17 @@ Disciplines such as medicine, business, science, and government are producing en
 #### [Link to final project judging form]()
 
 ### Coming Soon
+- splitminds
+- airlinedelays
+- AIjobs
+- ahungryworld
+- lightpollution
+- disasters
+- mentalhealth
+- stlcrime
+- AItoll
+- energy
+- cpi
 
 
 ## Final Projects from Previous Years
