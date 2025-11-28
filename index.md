@@ -1,25 +1,32 @@
 ## Visualization at Washington University
 
 ##### Course Description.
-Disciplines such as medicine, business, science, and government are producing enormous amounts of data with increasing volume and complexity. This course offers a rigorous introduction to the principles and techniques of data visualization. Topics include design, data mapping, visual perception, and interaction. We cover best practices for designing and building interactive visualization tools for the web, and we gain hands-on experience with designing and developing visualizations. We also learn how to critique visual designs and how to evaluate the systems we build.
+Disciplines such as medicine, business, science, and government are producing enormous amounts of data with increasing volume and complexity. This course offers a rigorous introduction to the principles and techniques of data visualization. Topics include design, data mapping, visual perception, and interaction. We cover best practices for designing and building interactive web visualization tools and gain hands-on experience in their design and development. We also learn to critique visual designs and evaluate the systems we build.
 
 
 ## Final Projects from CSE 457A, Fall 2025
 
-#### [Link to final project judging form]()
+#### [Link to final project judging form](https://forms.gle/Re1v6kVmBcX8DoxJ7)
 
-### Coming Soon
-- splitminds
-- airlinedelays
-- AIjobs
-- ahungryworld
-- lightpollution
-- disasters
-- mentalhealth
-- stlcrime
-- AItoll
-- energy
-- cpi
+### Tuesday Presentations
+Harzards
+- [Light Pollution](https://csex57.github.io/lightpollution/)
+- [Mapping Crime in St. Louis](https://csex57.github.io/stlcrime)
+- [Airline Delays](https://csex57.github.io/airlinedelays/)
+- [Global Infrastructure and Hazards](https://csex57.github.io/disasters/)
+Mind Matters
+- [Mental Health](https://csex57.github.io/mentalhealth/)
+- [Split Minds](https://csex57.github.io/splitminds/)
+   
+
+### Thursday Presentations
+Food and Cost of Living
+- [A Hungry World](https://csex57.github.io/ahungryworld/)
+- [Consumer Price Index Across US Urban Areas](https://csex57.github.io/cpi/)
+Energy and AI
+- [Global Energy Consumption](https://csex57.github.io/energy/)
+- [AI Data Centers' Water Footprint](https://csex57.github.io/AItoll/)
+- [AI Jobs](https://csex57.github.io/AIjobs/scrolly-test/index.html)
 
 
 ## Final Projects from Previous Years
