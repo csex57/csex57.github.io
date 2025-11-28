@@ -14,6 +14,7 @@ Harzards
 - [Mapping Crime in St. Louis](https://csex57.github.io/stlcrime)
 - [Airline Delays](https://csex57.github.io/airlinedelays/)
 - [Global Infrastructure and Hazards](https://csex57.github.io/disasters/)
+  
 Mind Matters
 - [Mental Health](https://csex57.github.io/mentalhealth/)
 - [Split Minds](https://csex57.github.io/splitminds/)
@@ -23,6 +24,7 @@ Mind Matters
 Food and Cost of Living
 - [A Hungry World](https://csex57.github.io/ahungryworld/)
 - [Consumer Price Index Across US Urban Areas](https://csex57.github.io/cpi/)
+  
 Energy and AI
 - [Global Energy Consumption](https://csex57.github.io/energy/)
 - [AI Data Centers' Water Footprint](https://csex57.github.io/AItoll/)
