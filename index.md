@@ -12,10 +12,10 @@ Disciplines such as medicine, business, science, and government are producing en
 Harzards
 - [Light Pollution](https://csex57.github.io/lightpollution/)
 - [Mapping Crime in St. Louis](https://csex57.github.io/stlcrime)
-- [Airline Delays](https://csex57.github.io/airlinedelays/)
 - [Global Infrastructure and Hazards](https://csex57.github.io/disasters/)
   
 Mind Matters
+- [Airline Delays](https://csex57.github.io/airlinedelays/)
 - [Mental Health](https://csex57.github.io/mentalhealth/)
 - [Split Minds](https://csex57.github.io/splitminds/)
    
