@@ -17,7 +17,7 @@ The course empowers students to create interactive data visualizations that driv
 
 
 ## Final Projects from Previous Years
-- [Fall 2024](https://csex57.github.io/f2025)
+- [Fall 2025](https://csex57.github.io/f2025)
 - [Fall 2024](https://csex57.github.io/f2024)
 - [Fall 2023](https://csex57.github.io/f2023)
 - [Fall 2022](https://csex57.github.io/f2022)
