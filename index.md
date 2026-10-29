@@ -1,38 +1,23 @@
 ## Visualization at Washington University
 
 ##### Course Description.
-Disciplines such as medicine, business, science, and government are producing enormous amounts of data with increasing volume and complexity. This course offers a rigorous introduction to the principles and techniques of data visualization. Topics include design, data mapping, visual perception, and interaction. We cover best practices for designing and building interactive web visualization tools and gain hands-on experience in their design and development. We also learn to critique visual designs and evaluate the systems we build.
+Transforming complex information into clear, actionable insights is crucial, especially when addressing pressing societal problems. This course offers a rigorous introduction to the principles and techniques of data visualization. Topics include design, data mapping, visual perception, and interaction. We cover best practices for designing and building interactive web visualization tools and gain hands-on experience developing visualizations. We also learn to critique visual designs and evaluate the systems we build.
 
+The course empowers students to create interactive data visualizations that drive social change and help solve real-world issues. Throughout the course, we will focus on how visualizations apply in social contexts. We will learn to analyze and interpret data on social issues such as public health, climate change, inequality, and education. By developing interactive visualizations, students will be equipped to present data in ways that engage diverse audiences, inform policy decisions, and foster community action.
 
-## Final Projects from CSE 457A, Fall 2025
-
-### [Link to final project judging form](https://forms.gle/Re1v6kVmBcX8DoxJ7)
-
-
-### Tuesday Presentations
-Harzards
-- [Light Pollution](https://csex57.github.io/lightpollution/)
-- [Mapping Crime in St. Louis](https://csex57.github.io/stlcrime)
-- [Global Infrastructure and Hazards](https://csex57.github.io/disasters/)
-  
-Mind Matters
-- [Airline Delays](https://csex57.github.io/airlinedelays/)
-- [Mental Health](https://csex57.github.io/mentalhealth/)
-- [Split Minds](https://csex57.github.io/splitminds/)
-   
-
-### Thursday Presentations
-Food and Cost of Living
-- [A Hungry World](https://csex57.github.io/ahungryworld/)
-- [Consumer Price Index Across US Urban Areas](https://csex57.github.io/cpi/)
-  
-Energy and AI
-- [Global Energy Consumption](https://csex57.github.io/energy/)
-- [AI Data Centers' Water Footprint](https://csex57.github.io/AItoll/)
-- [AI Jobs](https://csex57.github.io/AIjobs/scrolly-test/index.html)
+## Final Projects from CSE 4507, Fall 2026
+- [Visualizing Forks](https://csex57.github.io/visualizing-forks/)
+- [Rat Pack](https://csex57.github.io/rat-pack/)
+- [Pop Music](https://csex57.github.io/pop-music)
+- [AI Infrastructure Impact](https://csex57.github.io/ai-infrastructure-impact/)
+- [Pop Music](https://csex57.github.io/pop-music)
+- [Fly-Sense](https://csex57.github.io/fly-sense)
+- [Unhinged Analysis](https://csex57.github.io/unhinged-analysis)
+- [Disney World](https://csex57.github.io/disneyworld)
 
 
 ## Final Projects from Previous Years
+- [Fall 2024](https://csex57.github.io/f2025)
 - [Fall 2024](https://csex57.github.io/f2024)
 - [Fall 2023](https://csex57.github.io/f2023)
 - [Fall 2022](https://csex57.github.io/f2022)
